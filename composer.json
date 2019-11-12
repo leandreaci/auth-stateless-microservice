@@ -1,12 +1,12 @@
 {
     "name": "leandreaci/auth-stateless-microservice",
     "require": {
-        "illuminate/support": "^6.5",
-        "guzzlehttp/guzzle": "^6.4",
-        "illuminate/http": "^6.5"
+        "guzzlehttp/guzzle": "^6.4"
     },
     "require-dev": {
-        "phpunit/phpunit": "^8.4"
+        "phpunit/phpunit": "^8.4",
+        "illuminate/http": "^6.5",
+        "illuminate/support": "^6.5"
     },
     "autoload": {
         "psr-4": {
