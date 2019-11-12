@@ -1,5 +1,5 @@
 {
-    "name": "leandro/auth-stateless-microservice",
+    "name": "leandreaci/auth-stateless-microservice",
     "require": {
         "illuminate/support": "^6.5",
         "guzzlehttp/guzzle": "^6.4",
