@@ -13,7 +13,7 @@ class OAuthAuthenticate
     protected $user;
     protected $token;
     protected $client;
-    protected $uri = 'api/user/client';
+    protected $uri = 'api/user/details';
 
     public function __construct(ClientInterface $client)
     {
