@@ -77,6 +77,8 @@ class OAuthAuthenticate
         return  [
             'headers' => [
                 'Authorization' => $token,
+                'Accept' => 'application/json',
+                'Content-Type' => 'application/json'
             ]
         ];
     }
